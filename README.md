@@ -1,2 +1,2 @@
-# KickBOT1
+# Kit Bot 1
 Wooden Wide Robot
